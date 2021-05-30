@@ -1,3 +1,11 @@
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+
+@author: eswar
+"""
+
 import os
 import regex as re
 from time import *
